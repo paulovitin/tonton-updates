@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tonton</title>
+        <item>
+            <title>0.0.17-2.alpha</title>
+            <pubDate>Sat, 05 Sep 2026 21:09:29 +0000</pubDate>
+            <link>https://github.com/paulovitin/tonton-acc</link>
+            <sparkle:version>0.0.17</sparkle:version>
+            <sparkle:shortVersionString>0.0.17-2.alpha</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://paulovitin.github.io/tonton-updates/Tonton-0.0.17-2.alpha-macos-arm64.zip" length="20781009" type="application/octet-stream" sparkle:edSignature="hMUTrVRuCJkFs4CUgm7zP9vHbF5g72g0ICAObACPDO02amS5fRfS9MEfRuR+ModtfxWQv8KExVvvTnxdp+uACA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: tEwcjuH/eZD4pm3h/I7rSHljLhgYjva4RiJh/yXvaqIS80YsDDlLOTg6pSjkParjpsgv2cbJqINPALm/2hirDA==
+length: 1209
+-->
